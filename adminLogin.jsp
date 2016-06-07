@@ -1,9 +1,3 @@
-<%-- 
-    Document   : adminLogin
-    Created on : 28-May-2016, 21:00:47
-    Author     : Vivi Siska
---%>
-
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <%
